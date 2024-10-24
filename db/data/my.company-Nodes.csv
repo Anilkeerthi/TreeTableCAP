@@ -1,0 +1,17 @@
+NodeID,HierarchyLevel,Description,ParentNodeID,DrillState
+1,0,1,,expanded
+2,0,2,,expanded
+3,0,3,,expanded
+4,1,1.1,1,leaf
+5,1,1.2,1,expanded
+6,2,1.2.1,5,leaf
+7,2,1.2.2,5,leaf
+8,1,2.1,2,leaf
+9,1,2.2,2,leaf
+10,1,2.3,2,leaf
+11,1,3.1,3,expanded
+12,2,3.1.1,11,expanded
+13,3,3.1.1.1,12,leaf
+14,3,3.1.1.2,12,leaf
+15,3,3.1.1.3,12,leaf
+16,3,3.1.1.4,12,leaf
